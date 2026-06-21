@@ -1,0 +1,8 @@
+header div {
+  background: linear-gradient(to right, red, orange);
+}
+
+header img {
+  min-width: 25px;
+  max-width: 50px;
+}
