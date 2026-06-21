@@ -6,3 +6,27 @@ header img {
   min-width: 25px;
   max-width: 50px;
 }
+
+.hero {
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/hero.jpg");
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 75vh;
+  background-position: center;
+}
+
+.lead {
+  text-align: justify;
+}
+
+.search {
+  max-height: 25px;
+  width: auto;
+}
+
+.search_btn:hover {
+  background-color: red;
+  transition: 500ms ease;
+}
