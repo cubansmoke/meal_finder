@@ -30,3 +30,25 @@ header img {
   background-color: red;
   transition: 500ms ease;
 }
+
+.footer_img {
+  min-width: 25px;
+  max-width: 50px;
+}
+
+footer {
+  background: linear-gradient(to right, red, orange);
+}
+
+footer a:visited {
+  color: green;
+}
+
+footer a:hover {
+  color: red;
+  transition: 500ms ease;
+}
+
+.copyryt {
+  font-size: 10px;
+}
