@@ -45,7 +45,7 @@ footer a:visited {
 }
 
 footer a:hover {
-  color: red;
+  color: white;
   transition: 500ms ease;
 }
 
@@ -55,4 +55,13 @@ footer a:hover {
 
 .dpic {
   min-width: 100%;
+}
+
+.text-break a:hover {
+  color: green;
+}
+
+.text-break a:hover {
+  color: white;
+  transition: 500ms ease;
 }
